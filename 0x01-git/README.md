@@ -1,1 +1,1 @@
-"Starting to code today, so cool"
+Learning with ALX
