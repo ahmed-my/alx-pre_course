@@ -1,2 +1,1 @@
-Starting to code today, so cool
-My personal work
+How to be up to date in git
