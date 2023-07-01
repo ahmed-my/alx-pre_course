@@ -1,2 +1,1 @@
-My fist readme
-Update done fom github
+my first README
